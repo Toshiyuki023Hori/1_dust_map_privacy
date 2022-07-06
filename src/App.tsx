@@ -4,7 +4,7 @@ import AppIcon from './appIcon_1024.png'
 
 function App() {
   return (
-    <div className="h-full w-3/5 max-w-3xl min-w-screen_w pt-4 mx-auto pb-8 px-4">
+    <div className="h-full md:w-3/5 max-w-3xl min-w-screen_w pt-4 mx-auto pb-8 px-4">
       <img
         src={AppIcon}
         alt="app_icon"
