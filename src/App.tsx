@@ -4,7 +4,7 @@ import AppIcon from './appIcon_1024.png'
 
 function App() {
   return (
-    <div className="h-full w-1/2 max-w-3xl min-w-screen_w pt-4 mx-auto pb-8 px-4">
+    <div className="h-full w-3/5 max-w-3xl min-w-screen_w pt-4 mx-auto pb-8 px-4">
       <img
         src={AppIcon}
         alt="app_icon"
@@ -12,7 +12,7 @@ function App() {
       />
       <div className="text-2xl font-bold font-hiragino_kaku_3 text-center text-black">
         <p>東京ゴミ箱マップ</p>
-        <p className="text-xl text-black font-hiragino_kaku_3 text-center">
+        <p className="text-lg text-black font-hiragino_kaku_3 text-center">
           - みんなでシェアしてきれいな街へ -
         </p>
         <p>利用規約</p>
