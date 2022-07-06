@@ -6,6 +6,10 @@ Author: Richard Clark - http://richclarkdesign.com
 Twitter: @rich_clark
 */
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html,
 body,
 div,
